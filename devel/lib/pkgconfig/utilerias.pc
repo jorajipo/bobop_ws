@@ -1,0 +1,8 @@
+prefix=/home/desarrollo/bobop_ws/devel
+
+Name: utilerias
+Description: Description of utilerias
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/desarrollo/bobop_ws/devel/lib 
+Requires: 

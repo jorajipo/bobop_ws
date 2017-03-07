@@ -1,0 +1,2 @@
+data:estimulacion:monitoreo:utilerias:webapp
+-DCATKIN_DEVEL_PREFIX=/home/desarrollo/bobop_ws/devel -DCMAKE_INSTALL_PREFIX=/home/desarrollo/bobop_ws/install -G Unix Makefiles

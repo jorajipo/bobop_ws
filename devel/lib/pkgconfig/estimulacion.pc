@@ -1,0 +1,8 @@
+prefix=/home/desarrollo/bobop_ws/devel
+
+Name: estimulacion
+Description: Description of estimulacion
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/desarrollo/bobop_ws/devel/lib 
+Requires: 

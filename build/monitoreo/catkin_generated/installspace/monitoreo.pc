@@ -1,0 +1,8 @@
+prefix=/home/desarrollo/bobop_ws/install
+
+Name: monitoreo
+Description: Description of monitoreo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/desarrollo/bobop_ws/install/lib 
+Requires: 
