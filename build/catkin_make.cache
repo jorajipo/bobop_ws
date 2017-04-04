@@ -1,2 +1,2 @@
-data:estimulacion:monitoreo:utilerias:webapp
+data:estimulacion:monitoreo:utilerias:video_stream_opencv:webapp
 -DCATKIN_DEVEL_PREFIX=/home/desarrollo/bobop_ws/devel -DCMAKE_INSTALL_PREFIX=/home/desarrollo/bobop_ws/install -G Unix Makefiles

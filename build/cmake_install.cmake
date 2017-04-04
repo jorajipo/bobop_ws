@@ -121,6 +121,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/desarrollo/bobop_ws/build/estimulacion/cmake_install.cmake")
   include("/home/desarrollo/bobop_ws/build/monitoreo/cmake_install.cmake")
   include("/home/desarrollo/bobop_ws/build/utilerias/cmake_install.cmake")
+  include("/home/desarrollo/bobop_ws/build/video_stream_opencv/cmake_install.cmake")
   include("/home/desarrollo/bobop_ws/build/webapp/cmake_install.cmake")
 
 endif()
